@@ -1,6 +1,6 @@
 # Bright Data's South Korea Proxies
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/kr) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/locations/kr) 
 
 ## Overview
 Experience seamless scraping with Bright Data's [South Korea proxies](https://brightdata.com/locations/kr), designed to provide precise targeting, unmatched stability, and rapid response times. Start scraping websites from South Korea and don't get blocked again.
@@ -39,7 +39,7 @@ Experience seamless scraping with Bright Data's [South Korea proxies](https://br
 - **3G/4G/5G mobile IPs**
 - **24/7 global support**
 
-Sign up and receive a dollar-for-dollar match on your first deposit, up to $500!
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/kr) 
 
 ## Getting Started with Bright Data's South Korea proxies
 1. **Start Free Trial**: No credit card required.
